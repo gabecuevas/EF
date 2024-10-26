@@ -1,0 +1,703 @@
+{
+    "ext_name": {
+        "message": "LinkedCRM AI: LinkedIn E-Mail Finder & Copilot"
+    },
+    "integrations": {
+        "message": "Integrationen"
+    },
+    "model_title": {
+        "message": "Herzlichen Glückwunsch! 🎉"
+    },
+    "model_benefits": {
+        "message": "Sie haben diese Vorteile! Upgraden Sie für eine unbegrenzte Quote 👉"
+    },
+    "model_upgrade": {
+        "message": "AKTUALISIEREN"
+    },
+    "model_icon_message_gpt": {
+        "message": "GPT4o Anfragen"
+    },
+    "model_icon_message_email": {
+        "message": "E-Mail finden"
+    },
+    "model_icon_message_sync": {
+        "message": "Mit CRM Synchr."
+    },
+    "model_icon_message_download": {
+        "message": "Excel herunterladen"
+    },
+    "model_start_go": {
+        "message": "Gehen Sie zu Linkedin und beginnen Sie"
+    },
+
+    "connected": {
+        "message": "Verbunden"
+    },
+    "salesforce": {
+        "message": "Salesforce"
+    },
+    "google_sheets": {
+        "message": "Google Sheets"
+    },
+    "notion": {
+        "message": "Notion"
+    },
+    "platform_desc": {
+        "message": "Zweiseitige Datensynchronisierung, um Ihre Prospecting-Arbeit zu erleichtern."
+    },
+    "connect": {
+        "message": "Verbinden"
+    },
+    "sync": {
+        "message": "Synchr."
+    },
+    "connected_account": {
+        "message": "Verbundenes Konto:"
+    },
+    "platform_sheet": {
+        "message": "Synchronisieren Sie automatisch die Leads, die Sie auf LinkedIn finden, mit Ihrem Tabellenblatt."
+    },
+    "platform_notion": {
+        "message": "Synchronisieren Sie automatisch die Leads, die Sie auf LinkedIn finden, mit Ihrer Notion-Datenbank."
+    },
+    "platform_salesforce": {
+        "message": "Synchronisieren Sie automatisch die Leads, die Sie auf LinkedIn finden, mit Ihrem Salesforce."
+    },
+    "hubspot_title": {
+        "message": "Hubspot"
+    },
+    "platform_hubspot": {
+        "message": "Synchronisieren Sie automatisch die Leads, die Sie auf LinkedIn finden, mit Ihrem HubSpot."
+    },
+    "zapier_title": {
+        "message": "Zapier"
+    },
+    "platform_zapier": {
+        "message": "Verbinden Sie LinkedCRM mit über 2000 anderen Anwendungen über Zapier."
+    },
+    "pipedrive_title": {
+        "message": "Pipedrive"
+    },
+    "platform_pipedrive": {
+        "message": "Synchronisieren Sie automatisch die Leads, die Sie auf LinkedIn finden, mit Ihrem Pipedrive."
+    },
+    "zoho_title": {
+        "message": "ZOHO"
+    },
+    "platform_zoho": {
+        "message": "Synchronisieren Sie automatisch die Leads, die Sie auf LinkedIn finden, mit Ihrem ZOHO CRM."
+    },
+    "copper_title": {
+        "message": "Copper"
+    },
+    "platform_copper": {
+        "message": "Synchronisieren Sie automatisch die Leads, die Sie auf LinkedIn finden, mit Ihrem Copper."
+    },
+    "freshworks_title": {
+        "message": "Freshworks"
+    },
+    "platform_freshworks": {
+        "message": "Synchronisieren Sie automatisch die Leads, die Sie auf LinkedIn finden, mit Ihrer Freshworks."
+    },
+    "rdstation_title": {
+        "message": "RD Station"
+    },
+    "platform_rdstation": {
+        "message": "Synchronisieren Sie automatisch die Leads, die Sie auf LinkedIn finden, mit Ihrer RD Station."
+    },
+    "agendor_title": {
+        "message": "Agendor"
+    },
+    "platform_agendor": {
+        "message": "Synchronisieren Sie automatisch die Leads, die Sie auf LinkedIn finden, mit Ihrem Agendor."
+    },
+    "at_launch": {
+        "message": "⏰ Sie werden zum Start benachrichtigt!"
+    },
+    "join_waitlist": {
+        "message": "Warteliste beitreten"
+    },
+
+    "billing": {
+        "message": "Abrechnung"
+    },
+    "get_start": {
+        "message": "Erste Schritte"
+    },
+    "will_be_renewed_on": {
+        "message": "Wird am - erneuert"
+    },
+    "credits_for_prospect_sync": {
+        "message": "$QUOTA$ Guthaben",
+        "placeholders": {
+            "quota": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "quota_limit": {
+        "message": "Kreditlimit erreicht! Upgraden Sie für unlimitiertes Potential $ICON$",
+        "placeholders": {
+            "icon": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "synchronize_details": {
+        "message": "Details Synchr."
+    },
+    "linkedin": {
+        "message": "Linkedin"
+    },
+    "linkedin_url": {
+        "message": "Linkedin URL"
+    },
+    "operation_type": {
+        "message": "Art der Operation"
+    },
+    "sync_time": {
+        "message": "Synchronisationszeit"
+    },
+    "update": {
+        "message": "Aktualisieren"
+    },
+    "subscription_successful": {
+        "message": "Abonnement erfolgreich!"
+    },
+    "you_have": {
+        "message": "Sie haben"
+    },
+    "subscriptionInfo": {
+        "message": "Monatliche Guthaben. Automatische Verlängerung am $CURRENT$ jedes Monats.",
+        "placeholders": {
+            "current": {
+                "content": "$1",
+                "example": "Monatlicher Guthaben für Prospect-Synchronisation."
+            }
+        }
+    },
+    "payment_successful": {
+        "message": "Upgrade"
+    },
+    "upgrading_one": {
+        "message": "1. Nach dem Upgrade wird das Guthaben für Prospect-Synchronisation erweitert."
+    },
+    "upgrading_two": {
+        "message": "2. Unmittelbar nach dem Upgrade wirksam."
+    },
+    "credits_spent": {
+        "message": "Ausgegebene Guthaben"
+    },
+    "event": {
+        "message": "Ereignis"
+    },
+    "prospects_linked_in": {
+        "message": "LinkedIn-Prospects"
+    },
+    "credit_deduction": {
+        "message": "Guthabenabbuchung"
+    },
+    "operation_time": {
+        "message": "Betriebszeit"
+    },
+    "sync_to_notion": {
+        "message": "Mit Notion Synchr."
+    },
+    "find_emails": {
+        "message": "E-Mails finden"
+    },
+    "sync_to_salesforce": {
+        "message": "Mit Salesforce Synchr."
+    },
+    "sync_to_sheets": {
+        "message": "Mit Google Sheets Synchr."
+    },
+    "downloadexcel": {
+        "message": "Excel herunterladen"
+    },
+    "sync_to_hubspot": {
+        "message": "Mit Hubspot Synchr."
+    },
+
+    "settings": {
+        "message": "Einstellungen"
+    },
+    "display_user_profile": {
+        "message": "Anzeigen beim Durchsuchen von LinkedIn-Benutzerprofilen"
+    },
+    "auto_summarize": {
+        "message": "Auto-Zusammenfassung"
+    },
+    "auto_search_email": {
+        "message": "Auto-E-Mail-Suche"
+    },
+    "dispaly_floating_ball": {
+        "message": "LinkedCRM Floating Ball anzeigen"
+    },
+    "display_all_websites": {
+        "message": "Auf allen Websites anzeigen"
+    },
+    "display_just_linkedin_site": {
+        "message": "Nur auf der LinkedIn-Website anzeigen"
+    },
+
+    "login_message": {
+        "message": "Sie müssen sich bei Ihrem LinkedIn-Konto anmelden, um LinkedCRM zu beginnen."
+    },
+    "login_linkedIn": {
+        "message": "Auf LinkedIn anmelden"
+    },
+    "read_and_accept": {
+        "message": "Ich habe gelesen und stimme zu"
+    },
+    "privacy_policy": {
+        "message": "Datenschutzrichtlinie & Nutzungsbedingungen"
+    },
+    "accepting_the_privacy": {
+        "message": "Bitte fortfahren, nachdem Sie die Datenschutzerklärung akzeptiert haben."
+    },
+    "store_your_personal": {
+        "message": "Wir werden Ihre persönlichen Daten niemals sammeln oder speichern, ohne Ihre ausdrückliche Zustimmung."
+    },
+    "after_logging": {
+        "message": "Nach der Anmeldung bei LinkedIn,"
+    },
+    "page_and_refresh": {
+        "message": "kehren Sie zu dieser Seite zurück und aktualisieren Sie sie."
+    },
+    "refresh": {
+        "message": "Aktualisieren"
+    },
+    "associate_account": {
+        "message": "Bitte verknüpfen Sie Ihr CRM-Konto, um LinkedIn-Daten zu synchronisieren."
+    },
+    "export_to_excel": {
+        "message": "Wenn Sie kein CRM-Konto haben, können Sie auch in Excel exportieren."
+    },
+    "set_it_up_later": {
+        "message": "Später einrichten"
+    },
+    "feedback": {
+        "message": "Rückmeldung"
+    },
+    "roadmap": {
+        "message": "Roadmap"
+    },
+    "changelog": {
+        "message": "Änderungsprotokoll"
+    },
+    "your_privacy": {
+        "message": "Wir schätzen Ihre Privatsphäre"
+    },
+    "personalized_experience": {
+        "message": "Wir verwenden LinkedIn-Cookies, um Ihre Nutzung innerhalb des LinkedIn-Ökosystems zu verbessern, wie z. B. das Zusammenfassen von Benutzerinformationen, das Finden von E-Mails und die Bereitstellung einer personalisierten Erfahrung."
+    },
+    "more_information": {
+        "message": "Indem Sie auf 'Akzeptieren' klicken, können Sie LinkedCRM weiterhin verwenden. Weitere Informationen finden Sie in unserer Datenschutzerklärung."
+    },
+    "learn_more": {
+        "message": "Mehr erfahren"
+    },
+    "decline": {
+        "message": "Ablehnen"
+    },
+    "accept": {
+        "message": "Akzeptieren"
+    },
+    "chat": {
+        "message": "Chat"
+    },
+    "tools": {
+        "message": "Werkzeuge"
+    },
+    "copy": {
+        "message": "Kopieren"
+    },
+    "copied": {
+        "message": "Kopiert"
+    },
+    "loading": {
+        "message": "Wird geladen..."
+    },
+    "load_failed": {
+        "message": "Laden fehlgeschlagen, bitte erneut versuchen"
+    },
+    "regenerate": {
+        "message": "Erneut generieren"
+    },
+    "limit_standard": {
+        "message": "Unbegrenzte GPT4o Standardabfragen"
+    },
+    "email_queries": {
+        "message": "500 E-Mail-Abfragen"
+    },
+    "unlimited_credits": {
+        "message": "Unbegrenztes Guthaben für Prospect-Synchronisation"
+    },
+    "unlimited_excel": {
+        "message": "Unbegrenzter Excel-Download"
+    },
+    "unlock_potential": {
+        "message": "Schließen Sie das unbegrenzte Potential!"
+    },
+    "message_linkedcrm_ai": {
+        "message": "Nachricht an LinkedCRM AI..."
+    },
+    "ask_followup": {
+        "message": "Nachfrage stellen..."
+    },
+    "synchronizing": {
+        "message": "Wird synchronisiert..."
+    },
+    "generating": {
+        "message": "Wird generiert..."
+    },
+    "binding_success": {
+        "message": "Bindung erfolgreich! 🎉 Die Synchronisation der Interessentenliste in $PLATFORM$ wird nun gestartet.",
+        "placeholders": {
+            "platform": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "select_synchronize": {
+        "message": "Bitte wählen Sie das CRM, mit dem Sie synchronisieren möchten"
+    },
+    "download_excel": {
+        "message": "Benutzerinformationen in Excel herunterladen."
+    },
+    "not_yet_bind_account": {
+        "message": "😱 Oops, Sie haben Ihr $PLATFORM$ Konto noch nicht verknüpft.",
+        "placeholders": {
+            "platform": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "congratulations": {
+        "message": "Herzlichen Glückwunsch! 🎉 Die Synchronisation mit $PLATFORM$ war erfolgreich. Bitte klicken Sie auf den folgenden Link, um die Liste in $PLATFORM$ zu sehen",
+        "placeholders": {
+            "platform": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "view_details": {
+        "message": "[🔗 Details in $PLATFORM$ anzeigen]($LINK$)",
+        "placeholders": {
+            "platform": {
+                "content": "$1",
+                "example": ""
+            },
+            "link": {
+                "content": "$2",
+                "example": ""
+            }
+        }
+    },
+    "something_wrong": {
+        "message": "Etwas ist schiefgelaufen, bitte später erneut versuchen."
+    },
+    "ask_another_question": {
+        "message": "Entschuldigung, ich habe nicht verstanden. Können Sie eine andere Frage stellen?"
+    },
+    "click_download": {
+        "message": "Herzlichen Glückwunsch! 🎉 Die Datei wurde erstellt. Bitte klicken Sie auf die folgende Karte, um sie herunterzuladen 👇"
+    },
+    "write_an_email": {
+        "message": "Schreiben Sie eine E-Mail"
+    },
+    "search_for_email": {
+        "message": "Suche nach E-Mail"
+    },
+    "information_into_crm": {
+        "message": "Synchronisieren Sie die Informationen von $NAME$ in das CRM.",
+        "placeholders": {
+            "name": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "like_to_know": {
+        "message": "Hi! Was möchten Sie gerne wissen?"
+    },
+    "summarize_information": {
+        "message": "Zusammenfassung der Informationen von $NAME$.",
+        "placeholders": {
+            "name": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "name_email": {
+        "message": "Was ist die E-Mail von $NAME$?",
+        "placeholders": {
+            "name": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "sync_information": {
+        "message": "Synchronisieren Sie die Informationen von $NAME$ in das CRM.",
+        "placeholders": {
+            "name": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "history": {
+        "message": "Verlauf"
+    },
+    "home": {
+        "message": "Startseite"
+    },
+    "switch_to": {
+        "message": "Wechseln zu"
+    },
+    "switching_operate": {
+        "message": "Durch Wechseln werden Sie mit der Information von"
+    },
+    "choose_to_continue": {
+        "message": "arbeiten. Wenn Sie fortfahren möchten, werden wir den aktuellen Dialog und die Informationssynchronisation beibehalten."
+    },
+    "searching_from": {
+        "message": "Suche von"
+    },
+    "search_sources": {
+        "message": "Basiert auf 4 Suchquellen"
+    },
+    "send_email": {
+        "message": "E-Mail senden"
+    },
+    "valid": {
+        "message": "Gültig"
+    },
+        "unverified": {
+        "message": "Unverifiziert"
+    },
+    "source": {
+        "message": "Quelle"
+    },
+    "finder_verifier": {
+        "message": "E-Mail-Finder + -Verifizierer"
+    },
+    "sync_to_crm": {
+        "message": "Auf CRM synchronisieren"
+    },
+    "gpt4o_queries": {
+        "message": "Unbegrenzte GPT4o-Anfragen"
+    },
+    "priority_support": {
+        "message": "Premium Kundensupport"
+    },
+    "summarize_user": {
+        "message": "Benutzerinformationen zusammenfassen"
+    },
+    "autofindemail_default_time": {
+        "message": "LinkedCRM hat automatisch $AUTOFINDEMAIL$ E-Mails für Sie gefunden!",
+        "placeholders": {
+            "autofindemail": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "continue_email": {
+        "message": "Möchten Sie mit der automatischen E-Mail-Suche fortfahren?"
+    },
+    "automatic": {
+        "message": "Automatisch"
+    },
+    "manual": {
+        "message": "Manuell"
+    },
+    "tips_auto": {
+        "message": "Tipp: Die automatische E-Mail-Suche verbraucht ebenfalls Guthaben."
+    },
+    "who_email": {
+        "message": "E-Mail von"
+    },
+    "search_from": {
+        "message": "E-Mail suchen von"
+    },
+    "not_find_email": {
+        "message": "Sorry, keine E-Mail gefunden von"
+    },
+    "continue_in_chat": {
+        "message": "Im Chat fortfahren"
+    },
+    "summarize": {
+        "message": "Zusammenfassen"
+    },
+    "sync_to": {
+        "message": "Synchronisieren mit"
+    },
+    "upgrade_now": {
+        "message": "Jetzt upgraden"
+    },
+    "find_email_for_you": {
+        "message": "LinkedCRM hat die E-Mail von $NAME$ für Sie gefunden!",
+        "placeholders": {
+            "name": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "check_out": {
+        "message": "Checken Sie es aus"
+    },
+    "contact_us": {
+        "message": "Kontaktieren Sie uns"
+    },
+    "continue": {
+        "message": "Fortsetzen"
+    },
+    "session_history": {
+        "message": "Sitzungsverlauf"
+    },
+    "find_email": {
+        "message": "E-Mail finden"
+    },
+    "supported_only": {
+        "message": "Nur auf LinkedIn unterstützt"
+    },
+    "download_exc": {
+        "message": "Mit CRM synchronisieren/Excel herunterladen"
+    },
+    "send": {
+        "message": "Senden"
+    },
+    "monthly": {
+        "message": "Monatlich"
+    },
+    "yearly": {
+        "message": "Jährlich"
+    },
+    "first_month": {
+        "message": "Erster Monat - $PRICE$ Rabatt",
+        "placeholders": {
+            "price": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "start_first_month": {
+        "message": "Beginnen Sie für $PRICE$ im ersten Monat!",
+        "placeholders": {
+            "price": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "per_month": {
+        "message": "PRO MONAT $PRICE$",
+        "placeholders": {
+            "price": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "an_extra": {
+        "message": "Ein zusätzlicher Rabatt von $PRICE$ auf den Rabatt",
+        "placeholders": {
+            "price": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "billed_yearly": {
+        "message": "Pro Monat, jährlich in Rechnung gestellt"
+    },
+    "best_value": {
+        "message": "Bestes Wertangebot"
+    },
+    "unlock_unlimited": {
+        "message": "SCHLIESSEN SIE DAS UNBEGRenzTE POTENTIAL!"
+    },
+    "after_upgrading": {
+        "message": "Nach dem Upgrade werden die Guthaben erweitert."
+    },
+    "effective_immediately": {
+        "message": "Tritt unmittelbar nach dem Upgrade in Kraft."
+    },
+    "the_downgrade": {
+        "message": "Die Downgrade wird im nächsten Monat wirksam."
+    },
+    "the_downgrade_year": {
+        "message": "Der Downgrade wird im Folgejahr wirksam."
+    },
+    "monthly_payment": {
+        "message": "Die monatliche Zahlung tritt im nächsten Jahr in Kraft."
+    },
+    "after_downgrading": {
+        "message": "Nach dem Downgrade wird Ihr Guthaben reduziert."
+    },
+    "downgrade": {
+        "message": "Downgrade"
+    },
+    "current_plan": {
+        "message": "Aktueller Plan"
+    },
+    "save": {
+        "message": "Sparen"
+    },
+    "pay_the_difference": {
+        "message": "Zahlen Sie den Unterschied, wirksam sofort nach dem Upgrade."
+    },
+    "annual_payment": {
+        "message": "Die jährliche Zahlung wird nächsten Monat wirksam."
+    },
+    "start_at": {
+        "message": "Beginnen Sie bei $PRICE$",
+        "placeholders": {
+            "price": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "change_plan": {
+        "message": "Änderungsplan"
+    },
+    "subscrip_month": {
+        "message": "Automatische Verlängerung am $CURRENT$ jedes Monats",
+        "placeholders": {
+            "current": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "subscrip_year": {
+        "message": "Automatische Verlängerung am $CURRENT$ jedes Jahr",
+        "placeholders": {
+            "current": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "subscrip_version": {
+        "message": "Sie haben erfolgreich auf $VERSION$ aktualisiert, die Punkte werden möglicherweise in 1-5 Minuten angezeigt. Bitte aktualisieren Sie die Seite.",
+        "placeholders": {
+            "version": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,1 @@
+import{g as i,c as n,a as t,i as o,m as s,W as p,b as r,A as c,L as m}from"./permission.js";const u="prd";i(m,"lc").then(e=>{window.LCTrack.init({istest:u!=="prd",abbrev_name:"LC Main page",headers:{lc:e}})});const b=n(),a=t(c);a.use(o);a.use(b);a.use(s);a.use(p);a.mount("body");r(s,"main");

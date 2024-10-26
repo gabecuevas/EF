@@ -1,0 +1,699 @@
+{
+    "ext_name":{
+        "message": "LinkedCRM AI: LinkedIn Email Finder & Copilot"
+    },
+    "integrations": {
+        "message": "集成"
+    },
+    "model_title": {
+        "message": "恭喜！🎉"
+    },
+    "model_benefits": {
+        "message": "您将享有以下福利！升级以获得无限积分👉"
+    },
+    "model_upgrade": {
+        "message": "升级"
+    },
+    "model_icon_message_gpt": {
+        "message": "GPT4o请求"
+    },
+    "model_icon_message_email": {
+        "message": "Email查找"
+    },
+    "model_icon_message_sync": {
+        "message": "同步到CRM"
+    },
+    "model_icon_message_download": {
+        "message": "下载Excel"
+    },
+    "model_start_go": {
+        "message": "前往LinkedIn并开始使用"
+    },
+    "connected": {
+        "message": "已连接"
+    },
+    "salesforce": {
+        "message": "Salesforce"
+    },
+    "google_sheets": {
+        "message": "Google Sheets"
+    },
+    "notion": {
+        "message": "Notion"
+    },
+    "platform_desc": {
+        "message": "双向数据同步，简化您的潜在客户开发。"
+    },
+    "connect": {
+        "message": "连接"
+    },
+    "sync": {
+        "message": "同步"
+    },
+    "connected_account": {
+        "message": "已连接账户："
+    },
+    "platform_sheet": {
+        "message": "自动将您在LinkedIn上找到的潜在客户同步到您的表格中。"
+    },
+    "platform_notion": {
+        "message": "自动将您在LinkedIn上找到的潜在客户同步到您的Notion数据库。"
+    },
+    "platform_salesforce": {
+        "message": "自动将您在LinkedIn上找到的潜在客户同步到您的Salesforce中。"
+    },
+    "hubspot_title": {
+        "message": "Hubspot"
+    },
+    "platform_hubspot": {
+        "message": "自动将您在LinkedIn上找到的潜在客户同步到您的HubSpot中。"
+    },
+    "zapier_title": {
+        "message": "Zapier"
+    },
+    "platform_zapier": {
+        "message": "通过Zapier将LinkedCRM连接到2000多个其他应用程序。"
+    },
+    "pipedrive_title": {
+        "message": "Pipedrive"
+    },
+    "platform_pipedrive": {
+        "message": "自动将您在LinkedIn上找到的潜在客户同步到您的Pipedrive中。"
+    },
+    "zoho_title": {
+        "message": "ZOHO"
+    },
+    "platform_zoho": {
+        "message": "自动将您在LinkedIn上找到的潜在客户同步到您的ZOHO CRM中。"
+    },
+    "copper_title": {
+        "message": "Copper"
+    },
+    "platform_copper": {
+        "message": "自动将您在LinkedIn上找到的潜在客户同步到您的Copper中。"
+    },
+    "freshworks_title": {
+        "message": "Freshworks"
+    },
+    "platform_freshworks": {
+        "message": "自动将您在LinkedIn上找到的潜在客户同步到您的Freshworks中。"
+    },
+    "rdstation_title": {
+        "message": "RD Station"
+    },
+    "platform_rdstation": {
+        "message": "自动将您在LinkedIn上找到的潜在客户同步到您的RD Station中。"
+    },
+    "agendor_title": {
+        "message": "Agendor"
+    },
+    "platform_agendor": {
+        "message": "自动将您在LinkedIn上找到的潜在客户同步到您的Agendor中。"
+    },
+    "at_launch": {
+        "message": "⏰ 产品更新时您将收到通知！"
+    },
+    "join_waitlist": {
+        "message": "加入候补名单"
+    },
+    "billing": {
+        "message": "账单"
+    },
+    "get_start": {
+        "message": "开始使用"
+    },
+    "will_be_renewed_on": {
+        "message": "将在此日期续订 -"
+    },
+    "credits_for_prospect_sync": {
+        "message": "$QUOTA$ 积分",
+        "placeholders": {
+            "quota": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "quota_limit": {
+        "message": "积分已用完！升级以解锁无限潜力 $ICON$",
+        "placeholders": {
+            "icon": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "synchronize_details": {
+        "message": "同步详细信息"
+    },
+    "linkedin": {
+        "message": "LinkedIn"
+    },
+    "linkedin_url": {
+        "message": "LinkedIn URL"
+    },
+    "operation_type": {
+        "message": "操作类型"
+    },
+    "sync_time": {
+        "message": "同步时间"
+    },
+    "update": {
+        "message": "更新"
+    },
+    "subscription_successful": {
+        "message": "订阅成功！"
+    },
+    "you_have": {
+        "message": "您有"
+    },
+    "subscriptionInfo": {
+        "message": "积分/月。每月 $CURRENT$日 自动续订。",
+        "placeholders": {
+            "current": {
+                "content": "$1",
+                "example": "积分/月"
+            }
+        }
+    },
+    "payment_successful": {
+        "message": "升级"
+    },
+    "upgrading_one": {
+        "message": "1. 升级后，将获得更多积分。"
+    },
+    "upgrading_two": {
+        "message": "2. 升级后立即生效。"
+    },
+    "credits_spent": {
+        "message": "已使用积分"
+    },
+    "event": {
+        "message": "事件"
+    },
+    "prospects_linked_in": {
+        "message": "LinkedIn上的潜在客户"
+    },
+    "credit_deduction": {
+        "message": "积分扣除"
+    },
+    "operation_time": {
+        "message": "操作时间"
+    },
+    "sync_to_notion": {
+        "message": "同步到Notion"
+    },
+    "find_emails": {
+        "message": "查找Email"
+    },
+    "sync_to_salesforce": {
+        "message": "同步到Salesforce"
+    },
+    "sync_to_sheets": {
+        "message": "同步到Google Sheets"
+    },
+    "downloadexcel": {
+        "message": "下载Excel"
+    },
+    "sync_to_hubspot": {
+        "message": "同步到Hubspot"
+    },
+    "settings": {
+        "message": "设置"
+    },
+    "display_user_profile": {
+        "message": "浏览LinkedIn用户资料时显示"
+    },
+    "auto_summarize": {
+        "message": "自动总结"
+    },
+    "auto_search_email": {
+        "message": "自动查找Email"
+    },
+    "dispaly_floating_ball": {
+        "message": "显示LinkedCRM悬浮球"
+    },
+    "display_all_websites": {
+        "message": "在所有网站显示"
+    },
+    "display_just_linkedin_site": {
+        "message": "仅在LinkedIn显示"
+    },
+    "login_message": {
+        "message": "您必须登录LinkedIn账户才能开始使用LinkedCRM。"
+    },
+    "login_linkedIn": {
+        "message": "登录LinkedIn"
+    },
+    "read_and_accept": {
+        "message": "我已阅读并接受"
+    },
+    "privacy_policy": {
+        "message": "隐私政策和服务条款"
+    },
+    "accepting_the_privacy": {
+        "message": "请在接受隐私协议后继续。"
+    },
+    "store_your_personal": {
+        "message": "我们不会在未经您明确同意的情况下收集或存储您的个人数据。"
+    },
+    "after_logging": {
+        "message": "登录LinkedIn后，"
+    },
+    "page_and_refresh": {
+        "message": "返回此页面并刷新"
+    },
+    "refresh": {
+        "message": "刷新"
+    },
+    "associate_account": {
+        "message": "请关联您的CRM账户以同步LinkedIn数据"
+    },
+    "export_to_excel": {
+        "message": "如果您没有CRM账户，也可以导出到Excel"
+    },
+    "set_it_up_later": {
+        "message": "稍后设置"
+    },
+    "feedback": {
+        "message": "反馈"
+    },
+    "roadmap": {
+        "message": "路线图"
+    },
+    "changelog": {
+        "message": "更新日志"
+    },
+    "your_privacy": {
+        "message": "我们重视您的隐私"
+    },
+    "personalized_experience": {
+        "message": "我们使用LinkedIn cookies来增强您在LinkedIn生态系统中的使用体验，例如总结用户信息，查找Email，并为您提供个性化的体验。"
+    },
+    "more_information": {
+        "message": "点击“接受”后，您可以继续使用LinkedCRM。更多信息，请访问我们的隐私政策。"
+    },
+    "learn_more": {
+        "message": "了解更多"
+    },
+    "decline": {
+        "message": "拒绝"
+    },
+    "accept": {
+        "message": "接受"
+    },
+    "chat": {
+        "message": "聊天"
+    },
+    "tools": {
+        "message": "工具"
+    },
+    "copy": {
+        "message": "复制"
+    },
+    "copied": {
+        "message": "已复制"
+    },
+    "loading": {
+        "message": "加载中..."
+    },
+    "load_failed": {
+        "message": "加载失败，请重试"
+    },
+    "regenerate": {
+        "message": "重新生成"
+    },
+    "limit_standard": {
+        "message": "无限的GPT4o请求次数"
+    },
+    "email_queries": {
+        "message": "500个Email查询"
+    },
+    "unlimited_credits": {
+        "message": "无限潜在客户同步积分"
+    },
+    "unlimited_excel": {
+        "message": "无限的Excel下载"
+    },
+    "unlock_potential": {
+        "message": "解锁无限潜力！"
+    },
+    "message_linkedcrm_ai": {
+        "message": "向LinkedCRM AI提问..."
+    },
+    "ask_followup": {
+        "message": "继续提问..."
+    },
+    "synchronizing": {
+        "message": "正在同步..."
+    },
+    "generating": {
+        "message": "正在生成..."
+    },
+    "binding_success": {
+        "message": "绑定成功！🎉现在将潜在客户列表同步到$PLATFORM$",
+        "placeholders": {
+            "platform": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "select_synchronize": {
+        "message": "请选择您想要同步的CRM"
+    },
+    "download_excel": {
+        "message": "下载用户信息为Excel"
+    },
+    "not_yet_bind_account": {
+        "message": "😱抱歉，您尚未绑定您的$PLATFORM$账户。",
+        "placeholders": {
+            "platform": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "congratulations": {
+        "message": "恭喜！🎉 已成功同步到$PLATFORM$，请点击下方链接查看$PLATFORM$中的列表👇",
+        "placeholders": {
+            "platform": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "view_details": {
+        "message": "[🔗 在$PLATFORM$中查看详情]($LINK$)",
+        "placeholders": {
+            "platform": {
+                "content": "$1",
+                "example": ""
+            },
+            "link": {
+                "content": "$2",
+                "example": ""
+            }
+        }
+    },
+    "something_wrong": {
+        "message": "出了些问题，请稍后再试。"
+    },
+    "ask_another_question": {
+        "message": "抱歉，我不明白。您能问另一个问题吗？"
+    },
+    "click_download": {
+        "message": "恭喜！🎉 \n文件已生成。请点击下面的卡片进行下载👇"
+    },
+    "write_an_email": {
+        "message": "写一封Email"
+    },
+    "search_for_email": {
+        "message": "查找Email"
+    },
+    "information_into_crm": {
+        "message": "将$NAME$的信息同步到CRM",
+        "placeholders": {
+            "name": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "like_to_know": {
+        "message": "嗨！您想了解什么？"
+    },
+    "summarize_information": {
+        "message": "总结$NAME$的信息。",
+        "placeholders": {
+            "name": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "name_email": {
+        "message": "$NAME$的Email是什么？",
+        "placeholders": {
+            "name": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "sync_information": {
+        "message": "将$NAME$的信息同步到CRM。",
+        "placeholders": {
+            "name": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "history": {
+        "message": "历史记录"
+    },
+    "home": {
+        "message": "首页"
+    },
+    "switch_to": {
+        "message": "切换到"
+    },
+    "switching_operate": {
+        "message": "切换后，所有对话将基于"
+    },
+    "choose_to_continue": {
+        "message": "。如果您选择继续，我们将保持当前的对话"
+    },
+    "searching_from": {
+        "message": "搜索自"
+    },
+    "search_sources": {
+        "message": "基于4个来源"
+    },
+    "send_email": {
+        "message": "发送Email"
+    },
+    "valid": {
+        "message": "有效"
+    },
+    "unverified": {
+        "message": "未验证"
+    },
+    "source": {
+        "message": "来源"
+    },
+    "finder_verifier": {
+        "message": "Email查找器+验证器"
+    },
+    "sync_to_crm": {
+        "message": "联系人同步到CRM"
+    },
+    "gpt4o_queries": {
+        "message": "无限的GPT4o请求次数"
+    },
+    "priority_support": {
+        "message": "优先支持"
+    },
+    "summarize_user": {
+        "message": "总结用户信息"
+    },
+    "autofindemail_default_time": {
+        "message": "LinkedCRM为您自动查找了$AUTOFINDEMAIL$个Email！",
+        "placeholders": {
+            "autofindemail": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "continue_email": {
+        "message": "继续自动查找Email？"
+    },
+    "automatic": {
+        "message": "自动"
+    },
+    "manual": {
+        "message": "手动"
+    },
+    "tips_auto": {
+        "message": "提示：自动查找Email也会消耗积分。"
+    },
+    "who_email": {
+        "message": "的Email"
+    },
+    "search_from": {
+        "message": "搜索Email中 搜索自"
+    },
+    "not_find_email": {
+        "message": "抱歉，未从这些来源找到Email"
+    },
+    "continue_in_chat": {
+        "message": "在聊天中继续"
+    },
+    "summarize": {
+        "message": "总结"
+    },
+    "sync_to": {
+        "message": "同步到"
+    },
+    "upgrade_now": {
+        "message": "立即升级"
+    },
+    "find_email_for_you": {
+        "message": "LinkedCRM已为您找到$NAME$的Email！",
+        "placeholders": {
+            "name": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "check_out": {
+        "message": "查看"
+    },
+    "contact_us": {
+        "message": "联系我们"
+    },
+    "continue": {
+        "message": "继续"
+    },
+    "session_history": {
+        "message": "会话记录"
+    },
+    "find_email": {
+        "message": "查找Email"
+    },
+    "supported_only": {
+        "message": "仅支持LinkedIn用户主页"
+    },
+    "download_exc": {
+        "message": "同步到CRM/下载Excel"
+    },
+    "send": {
+        "message": "发送"
+    },
+    "monthly": {
+        "message": "月度"
+    },
+    "yearly": {
+        "message": "年度"
+    },
+    "first_month": {
+        "message": "首月 -$PRICE$ 折扣",
+        "placeholders": {
+            "price": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "start_first_month": {
+        "message": "首月起价 $PRICE$！",
+        "placeholders": {
+            "price": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "per_month": {
+        "message": "每月 $PRICE$",
+        "placeholders": {
+            "price": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "an_extra": {
+        "message": "在折扣基础上再减 $PRICE$",
+        "placeholders": {
+            "price": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "billed_yearly": {
+        "message": "每月，按年计费"
+    },
+    "best_value": {
+        "message": "最优惠"
+    },
+    "unlock_unlimited": {
+        "message": "解锁无限潜力"
+    },
+    "after_upgrading": {
+        "message": "升级后，积分将扩大。"
+    },
+    "effective_immediately": {
+        "message": "升级后立即生效。"
+    },
+    "the_downgrade": {
+        "message": "降级将在下个月生效。"
+    },
+    "the_downgrade_year": {
+        "message": "降级将于次年生效。"
+    },
+    "monthly_payment": {
+        "message": "每月付款将于明年生效。"
+    },
+    "after_downgrading": {
+        "message": "降级后，积分将减少。"
+    },
+    "downgrade": {
+        "message": "降级"
+    },
+    "current_plan": {
+        "message": "当前计划"
+    },
+    "save": {
+        "message": "节省"
+    },
+    "pay_the_difference": {
+        "message": "支付差额，升级后立即生效。"
+    },
+    "annual_payment": {
+        "message": "年度付款将在下月生效。"
+    },
+    "start_at": {
+        "message": "起价 $PRICE$",
+        "placeholders": {
+            "price": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "change_plan": {
+        "message": "变更计划"
+    },
+    "subscrip_month": {
+        "message": "每月$CURRENT$日 自动续订",
+        "placeholders": {
+            "current": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "subscrip_year": {
+        "message": "每年$CURRENT$ 自动续订",
+        "placeholders": {
+            "current": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "subscrip_version": {
+        "message": "您已成功升级至 $VERSION$ 版，积分到账预计有1-5分钟延迟，请刷新页面",
+        "placeholders": {
+            "version": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    }
+}

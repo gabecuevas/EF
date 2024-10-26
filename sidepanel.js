@@ -1,0 +1,1 @@
+import{g as t,c as i,a as n,i as o,s,W as p,u as r,b as c,A as u,L as d}from"./permission.js";const b="prd";t(d,"lc").then(a=>{window.LCTrack.init({istest:b!=="prd",abbrev_name:"LC Chat page",headers:{lc:a}})});const m=i(),e=n(u);e.use(o);e.use(m);e.use(s);e.use(p);e.mount("body");r();c(s,"side");

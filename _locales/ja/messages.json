@@ -1,0 +1,699 @@
+{
+    "ext_name": {
+        "message": "LinkedCRM AI：LinkedInメールファインダー＆コピロット"
+    },
+    "integrations": {
+        "message": "統合"
+    },
+    "model_title": {
+        "message": "おめでとうございます！🎉"
+    },
+    "model_benefits": {
+        "message": "以下の特典を享有いただけます！無制限のクォータのためにアップグレードしてください👉"
+    },
+    "model_upgrade": {
+        "message": "アップグレード"
+    },
+    "model_icon_message_gpt": {
+        "message": "GPT4oリクエスト"
+    },
+    "model_icon_message_email": {
+        "message": "メール検索"
+    },
+    "model_icon_message_sync": {
+        "message": "CRMに同期"
+    },
+    "model_icon_message_download": {
+        "message": "Excelをダウンロード"
+    },
+    "model_start_go": {
+        "message": "LinkedInにアクセスし、使い始めましょう"
+    },
+    "connected": {
+        "message": "接続済み"
+    },
+    "salesforce": {
+        "message": "Salesforce"
+    },
+    "google_sheets": {
+        "message": "Google Sheets"
+    },
+    "notion": {
+        "message": "Notion"
+    },
+    "platform_desc": {
+        "message": "双方向データ同期で、潜在顧客の発掘を簡略化します。"
+    },
+    "connect": {
+        "message": "接続"
+    },
+    "sync": {
+        "message": "同期"
+    },
+    "connected_account": {
+        "message": "接続済みアカウント："
+    },
+    "platform_sheet": {
+        "message": "LinkedInで見つけたリードを自動的にあなたのスプレッドシートに同期します。"
+    },
+    "platform_notion": {
+        "message": "LinkedInで見つけたリードを自動的にあなたのNotionデータベースに同期します。"
+    },
+    "platform_salesforce": {
+        "message": "LinkedInで見つけたリードを自動的にあなたのSalesforceに同期します。"
+    },
+    "hubspot_title": {
+        "message": "Hubspot"
+    },
+    "platform_hubspot": {
+        "message": "LinkedInで見つけたリードを自動的にあなたのHubSpotに同期します。"
+    },
+    "zapier_title": {
+        "message": "Zapier"
+    },
+    "platform_zapier": {
+        "message": "Zapierを利用してLinkedCRMを2000を超える他のアプリケーションに接続します。"
+    },
+    "pipedrive_title": {
+        "message": "Pipedrive"
+    },
+    "platform_pipedrive": {
+        "message": "LinkedInで見つけたリードを自動的にあなたのPipedriveに同期します。"
+    },
+    "zoho_title": {
+        "message": "ZOHO"
+    },
+    "platform_zoho": {
+        "message": "LinkedInで見つけたリードを自動的にあなたのZOHO CRMに同期します。"
+    },
+    "copper_title": {
+        "message": "Copper"
+    },
+    "platform_copper": {
+        "message": "LinkedInで見つけたリードを自動的にあなたのCopperに同期します。"
+    },
+    "freshworks_title": {
+        "message": "Freshworks"
+    },
+    "platform_freshworks": {
+        "message": "LinkedInで見つけたリードを自動的にあなたのFreshworksに同期します。"
+    },
+    "rdstation_title": {
+        "message": "RD Station"
+    },
+    "platform_rdstation": {
+        "message": "LinkedInで見つけたリードを自動的にあなたのRD Stationに同期します。"
+    },
+    "agendor_title": {
+        "message": "Agendor"
+    },
+    "platform_agendor": {
+        "message": "LinkedInで見つけたリードを自動的にあなたのAgendorに同期します。"
+    },
+    "at_launch": {
+        "message": "⏰ リリース時に通知されます！"
+    },
+    "join_waitlist": {
+        "message": "待ちリストに登録"
+    },
+    "billing": {
+        "message": "課金"
+    },
+    "get_start": {
+        "message": "はじめましょう"
+    },
+    "will_be_renewed_on": {
+        "message": "次の更新日："
+    },
+    "credits_for_prospect_sync": {
+        "message": "$QUOTA$ ポイント",
+        "placeholders": {
+            "quota": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "quota_limit": {
+        "message": "クレジットの制限に達しました！無制限の可能性のためにアップグレードしてください $ICON$",
+        "placeholders": {
+            "icon": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "synchronize_details": {
+        "message": "詳細を同期"
+    },
+    "linkedin": {
+        "message": "LinkedIn"
+    },
+    "linkedin_url": {
+        "message": "LinkedIn URL"
+    },
+    "operation_type": {
+        "message": "操作タイプ"
+    },
+    "sync_time": {
+        "message": "同期時間"
+    },
+    "update": {
+        "message": "更新"
+    },
+    "subscription_successful": {
+        "message": "登録完了！"
+    },
+    "you_have": {
+        "message": "あなたは持っています"
+    },
+    "subscriptionInfo": {
+        "message": "月額クレジット。毎月 $CURRENT$日に自動更新されます。",
+        "placeholders": {
+            "current": {
+                "content": "$1",
+                "example": "月間クレジット"
+            }
+        }
+    },
+    "payment_successful": {
+        "message": "アップグレード完了"
+    },
+    "upgrading_one": {
+        "message": "1. アップグレード後、リード同期のためのクレジットが拡大されます。"
+    },
+    "upgrading_two": {
+        "message": "2. アップグレード直後から有効です。"
+    },
+    "credits_spent": {
+        "message": "使用されたクレジット"
+    },
+    "event": {
+        "message": "イベント"
+    },
+    "prospects_linked_in": {
+        "message": "LinkedInのリード"
+    },
+    "credit_deduction": {
+        "message": "クレジットの差し引き"
+    },
+    "operation_time": {
+        "message": "操作時間"
+    },
+    "sync_to_notion": {
+        "message": "Notionに同期"
+    },
+    "find_emails": {
+        "message": "メールを検索"
+    },
+    "sync_to_salesforce": {
+        "message": "Salesforceに同期"
+    },
+    "sync_to_sheets": {
+        "message": "Google Sheetsに同期"
+    },
+    "downloadexcel": {
+        "message": "Excelをダウンロード"
+    },
+    "sync_to_hubspot": {
+        "message": "Hubspotに同期"
+    },
+    "settings": {
+        "message": "設定"
+    },
+    "display_user_profile": {
+        "message": "LinkedInのユーザープロファイルを閲覧する際に表示"
+    },
+    "auto_summarize": {
+        "message": "自動要約"
+    },
+    "auto_search_email": {
+        "message": "メールを自動検索"
+    },
+    "dispaly_floating_ball": {
+        "message": "LinkedCRMフローティングボールを表示"
+    },
+    "display_all_websites": {
+        "message": "すべてのウェブサイトで表示"
+    },
+    "display_just_linkedin_site": {
+        "message": "LinkedInサイトのみで表示"
+    },
+    "login_message": {
+        "message": "LinkedCRMを使い始めるには、LinkedInアカウントにログインする必要があります。"
+    },
+    "login_linkedIn": {
+        "message": "LinkedInにログイン"
+    },
+    "read_and_accept": {
+        "message": "私は読み、承認しました"
+    },
+    "privacy_policy": {
+        "message": "プライバシーポリシーとサービス条件"
+    },
+    "accepting_the_privacy": {
+        "message": "プライバシー契約を承認した後、続行してください。"
+    },
+    "store_your_personal": {
+        "message": "私たちは、あなたの明示的な同意なしに、あなたの個人データを収集または保管することはありません。"
+    },
+    "after_logging": {
+        "message": "LinkedInにログイン後、"
+    },
+    "page_and_refresh": {
+        "message": "このページに戻り、更新してください。"
+    },
+    "refresh": {
+        "message": "更新"
+    },
+    "associate_account": {
+        "message": "CRMアカウントを関連付けて、LinkedInデータを同期してください。"
+    },
+    "export_to_excel": {
+        "message": "CRMアカウントがなければ、Excelにエクスポートすることもできます。"
+    },
+    "set_it_up_later": {
+        "message": "後で設定"
+    },
+    "feedback": {
+        "message": "フィードバック"
+    },
+    "roadmap": {
+        "message": "ロードマップ"
+    },
+    "changelog": {
+        "message": "更新履歴"
+    },
+    "your_privacy": {
+        "message": "あなたのプライバシーを大切にします"
+    },
+    "personalized_experience": {
+        "message": "私たちは、LinkedInのクッキーを使用して、ユーザー情報を要約したり、メールを検索したりし、あなたにパーソナライズされた体験を提供します。"
+    },
+    "more_information": {
+        "message": "「同意」をクリックすると、LinkedCRMの使用を続けることができます。詳細については、私たちのプライバシーポリシーを参照してください。"
+    },
+    "learn_more": {
+        "message": "もっと知る"
+    },
+    "decline": {
+        "message": "拒否"
+    },
+    "accept": {
+        "message": "同意"
+    },
+    "chat": {
+        "message": "チャット"
+    },
+    "tools": {
+        "message": "ツール"
+    },
+    "copy": {
+        "message": "コピー"
+    },
+    "copied": {
+        "message": "コピーしました"
+    },
+    "loading": {
+        "message": "読み込み中..."
+    },
+    "load_failed": {
+        "message": "読み込みに失敗しました。再試行してください。"
+    },
+    "regenerate": {
+        "message": "再生成"
+    },
+    "limit_standard": {
+        "message": "GPT4o標準の無制限リクエスト"
+    },
+    "email_queries": {
+        "message": "500メール検索"
+    },
+    "unlimited_credits": {
+        "message": "無制限のリード同期クレジット"
+    },
+    "unlimited_excel": {
+        "message": "無制限のExcelダウンロード"
+    },
+    "unlock_potential": {
+        "message": "無制限の可能性をアンロック！"
+    },
+    "message_linkedcrm_ai": {
+        "message": "LinkedCRM AIにメッセージ..."
+    },
+    "ask_followup": {
+        "message": "フォローアップを尋ねる..."
+    },
+    "synchronizing": {
+        "message": "同期中..."
+    },
+    "generating": {
+        "message": "生成中..."
+    },
+    "binding_success": {
+        "message": "バインド成功！🎉 現在、$PLATFORM$にリードリストを同期中です。",
+        "placeholders": {
+            "platform": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "select_synchronize": {
+        "message": "同期したいCRMを選択してください"
+    },
+    "download_excel": {
+        "message": "ユーザー情報をExcelにダウンロードします。"
+    },
+    "not_yet_bind_account": {
+        "message": "😱おっと、あなたはまだあなたの$PLATFORM$アカウントをバインドしていません。",
+        "placeholders": {
+            "platform": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "congratulations": {
+        "message": "おめでとうございます！🎉 $PLATFORM$への同期が成功しました。以下のリンクをクリックして$PLATFORM$でリストを表示してください",
+        "placeholders": {
+            "platform": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "view_details": {
+        "message": "[🔗 $PLATFORM$で詳細を表示]($LINK$)",
+        "placeholders": {
+            "platform": {
+                "content": "$1",
+                "example": ""
+            },
+            "link": {
+                "content": "$2",
+                "example": ""
+            }
+        }
+    },
+    "something_wrong": {
+        "message": "問題が発生しました。後でもう一度試してください。"
+    },
+    "ask_another_question": {
+        "message": "申し訳ありませんが、理解できませんでした。別の質問をしてもよろしいですか？"
+    },
+    "click_download": {
+        "message": "おめでとうございます！🎉 ファイルが生成されました。以下のカードをクリックしてダウンロードしてください👇"
+    },
+    "write_an_email": {
+        "message": "メールを書く"
+    },
+    "search_for_email": {
+        "message": "メールを検索"
+    },
+    "information_into_crm": {
+        "message": "$NAME$の情報をCRMに同期します。",
+        "placeholders": {
+            "name": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "like_to_know": {
+        "message": "こんにちは！何を知りたいですか？"
+    },
+    "summarize_information": {
+        "message": "$NAME$の情報を要約します。",
+        "placeholders": {
+            "name": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "name_email": {
+        "message": "$NAME$のメールはどれですか？",
+        "placeholders": {
+            "name": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "sync_information": {
+        "message": "$NAME$の情報をCRMに同期します。",
+        "placeholders": {
+            "name": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "history": {
+        "message": "履歴"
+    },
+    "home": {
+        "message": "ホーム"
+    },
+    "switch_to": {
+        "message": "切り替える"
+    },
+    "switching_operate": {
+        "message": "切り替えると、次の情報を操作します"
+    },
+    "choose_to_continue": {
+        "message": "。続ける場合、現在の対話と情報の同期ステータスを維持します。"
+    },
+    "searching_from": {
+        "message": "検索元"
+    },
+    "search_sources": {
+        "message": "4つの検索ソースに基づく"
+    },
+    "send_email": {
+        "message": "メールを送る"
+    },
+    "valid": {
+        "message": "有効"
+    },
+    "unverified": {
+        "message": "未確認"
+    },
+    "source": {
+        "message": "ソース"
+    },
+    "finder_verifier": {
+        "message": "メールファインダー+検証者"
+    },
+    "sync_to_crm": {
+        "message": "CRMに連絡先を同期"
+    },
+    "gpt4o_queries": {
+        "message": "無制限のGPT4oクエリ"
+    },
+    "priority_support": {
+        "message": "優先サポート"
+    },
+    "summarize_user": {
+        "message": "ユーザー情報を要約"
+    },
+    "autofindemail_default_time": {
+        "message": "LinkedCRMは自動的に$AUTOFINDEMAIL$メールをあなたのために見つけました！",
+        "placeholders": {
+            "autofindemail": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "continue_email": {
+        "message": "メールの自動検索を続けますか？"
+    },
+    "automatic": {
+        "message": "自動的"
+    },
+    "manual": {
+        "message": "手動"
+    },
+    "tips_auto": {
+        "message": "ヒント：自動メール検索もクレジットを消費します。"
+    },
+    "who_email": {
+        "message": "のメール"
+    },
+    "search_from": {
+        "message": "検索元"
+    },
+    "not_find_email": {
+        "message": "これらのソースでメール見つからない"
+    },
+    "continue_in_chat": {
+        "message": "チャットを続ける"
+    },
+    "summarize": {
+        "message": "要約"
+    },
+    "sync_to": {
+        "message": "同期先"
+    },
+    "upgrade_now": {
+        "message": "今すぐアップグレード"
+    },
+    "find_email_for_you": {
+        "message": "LinkedCRMは$NAME$のメールをあなたのために見つけました！",
+        "placeholders": {
+            "name": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "check_out": {
+        "message": "確認してください"
+    },
+    "contact_us": {
+        "message": "お問い合わせ"
+    },
+    "continue": {
+        "message": "続ける"
+    },
+    "session_history": {
+        "message": "セッション履歴"
+    },
+    "find_email": {
+        "message": "メールを探す"
+    },
+    "supported_only": {
+        "message": "LinkedInのみ対応"
+    },
+    "download_exc": {
+        "message": "CRMに同期/Excelをダウンロード"
+    },
+    "send": {
+        "message": "送信"
+    },
+    "monthly": {
+        "message": "月間"
+    },
+    "yearly": {
+        "message": "年間"
+    },
+    "first_month": {
+        "message": "初月 - $PRICE$ の割引",
+        "placeholders": {
+            "price": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "start_first_month": {
+        "message": "初月から $PRICE$ スタート！",
+        "placeholders": {
+            "price": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "per_month": {
+        "message": "毎月 $PRICE$",
+        "placeholders": {
+            "price": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "an_extra": {
+        "message": "割引の上にさらに $PRICE$ オフ",
+        "placeholders": {
+            "price": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "billed_yearly": {
+        "message": "月単位で、年払い"
+    },
+    "best_value": {
+        "message": "最高の価値"
+    },
+    "unlock_unlimited": {
+        "message": "無制限の可能性をアンロック"
+    },
+    "after_upgrading": {
+        "message": "アップグレード後、クレジットが拡大されます。"
+    },
+    "effective_immediately": {
+        "message": "アップグレード直後から有効になります。"
+    },
+    "the_downgrade": {
+        "message": "ダウングレードは翌月に効果が表示されます。"
+    },
+    "the_downgrade_year": {
+        "message": "降格は翌年に発効する。"
+    },
+    "monthly_payment": {
+        "message": "毎月の支払いは来年に発効する。"
+    },
+    "after_downgrading": {
+        "message": "ダウングレード後、クレジットの残高が減少します。"
+    },
+    "downgrade": {
+        "message": "ダウングレード"
+    },
+    "current_plan": {
+        "message": "現在のプラン"
+    },
+    "save": {
+        "message": "オフ"
+    },
+    "pay_the_difference": {
+        "message": "差額を支払って、アップグレード直後から有効にしてください。"
+    },
+    "annual_payment": {
+        "message": "年払いは翌月に効果が表示されます。"
+    },
+    "start_at": {
+        "message": "$PRICE$ からスタート",
+        "placeholders": {
+            "price": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "change_plan": {
+        "message": "計画を変更する"
+    },
+    "subscrip_month": {
+        "message": "毎月$CURRENT$日に自動更新",
+        "placeholders": {
+            "current": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "subscrip_year": {
+        "message": "毎年$CURRENT$に自動更新",
+        "placeholders": {
+            "current": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "subscrip_version": {
+        "message": "バージョン$VERSION$に正常にアップグレードされました。ポイントの反映には1～5分ほど遅延する場合がありますので、ページを更新してください。",
+        "placeholders": {
+            "version": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    }
+}

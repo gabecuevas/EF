@@ -1,0 +1,699 @@
+{
+    "ext_name": {
+        "message": "LinkedCRM AI: 링크드인 이메일 탐색기 & 코텍스"
+    },
+    "integrations": {
+        "message": "통합"
+    },
+    "model_title": {
+        "message": "축하합니다! 🎉"
+    },
+    "model_benefits": {
+        "message": "다음 福利를 즐기십시오! 무제한 포인트를 얻으려면 업그레이드 하세요 👉"
+    },
+    "model_upgrade": {
+        "message": "업그레이드"
+    },
+    "model_icon_message_gpt": {
+        "message": "GPT4o 요청"
+    },
+    "model_icon_message_email": {
+        "message": "이메일 찾기"
+    },
+    "model_icon_message_sync": {
+        "message": "CRM에 동기화"
+    },
+    "model_icon_message_download": {
+        "message": "엑셀 다운로드"
+    },
+    "model_start_go": {
+        "message": "링크드인으로 이동하여 시작하기"
+    },
+    "connected": {
+        "message": "연결됨"
+    },
+    "salesforce": {
+        "message": "Salesforce"
+    },
+    "google_sheets": {
+        "message": "Google Sheets"
+    },
+    "notion": {
+        "message": "Notion"
+    },
+    "platform_desc": {
+        "message": "양방향 데이터 동기화로 전망을 쉽게 관리하세요."
+    },
+    "connect": {
+        "message": "연결"
+    },
+    "sync": {
+        "message": "동기화"
+    },
+    "connected_account": {
+        "message": "연결된 계정："
+    },
+    "platform_sheet": {
+        "message": "링크드인에서 찾은 리드를 자동으로 테이블에 동기화합니다."
+    },
+    "platform_notion": {
+        "message": "링크드인에서 찾은 리드를 자동으로 노션 데이터베이스에 동기화합니다."
+    },
+    "platform_salesforce": {
+        "message": "링크드인에서 찾은 리드를 자동으로 Salesforce에 동기화합니다."
+    },
+    "hubspot_title": {
+        "message": "Hubspot"
+    },
+    "platform_hubspot": {
+        "message": "링크드인에서 찾은 리드를 자동으로 HubSpot에 동기화합니다."
+    },
+    "zapier_title": {
+        "message": "Zapier"
+    },
+    "platform_zapier": {
+        "message": "Zapier를 통해 LinkedCRM를 2000개 이상의 다른 응용 프로그램에 연결합니다."
+    },
+    "pipedrive_title": {
+        "message": "Pipedrive"
+    },
+    "platform_pipedrive": {
+        "message": "링크드인에서 찾은 리드를 자동으로 Pipedrive에 동기화합니다."
+    },
+    "zoho_title": {
+        "message": "ZOHO"
+    },
+    "platform_zoho": {
+        "message": "링크드인에서 찾은 리드를 자동으로 ZOHO CRM에 동기화합니다."
+    },
+    "copper_title": {
+        "message": "Copper"
+    },
+    "platform_copper": {
+        "message": "링크드인에서 찾은 리드를 자동으로 Copper에 동기화합니다."
+    },
+    "freshworks_title": {
+        "message": "Freshworks"
+    },
+    "platform_freshworks": {
+        "message": "링크드인에서 찾은 리드를 자동으로 Freshworks에 동기화합니다."
+    },
+    "rdstation_title": {
+        "message": "RD Station"
+    },
+    "platform_rdstation": {
+        "message": "링크드인에서 찾은 리드를 자동으로 RD Station에 동기화합니다."
+    },
+    "agendor_title": {
+        "message": "Agendor"
+    },
+    "platform_agendor": {
+        "message": "링크드인에서 찾은 리드를 자동으로 Agendor에 동기화합니다."
+    },
+    "at_launch": {
+        "message": "⏰ 런칭 때 알림을 받게 됩니다!"
+    },
+    "join_waitlist": {
+        "message": "대기 리스트에 가입"
+    },
+    "billing": {
+        "message": "결제"
+    },
+    "get_start": {
+        "message": "시작하기"
+    },
+    "will_be_renewed_on": {
+        "message": "다음 날짜에 재신규가 됩니다 -"
+    },
+    "credits_for_prospect_sync": {
+        "message": "$QUOTA$ 포인트",
+        "placeholders": {
+            "quota": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "quota_limit": {
+        "message": "크레딧 한도에 도달했습니다! 무제한 포텐셜을 위해 업그레이드 하세요 $ICON$",
+        "placeholders": {
+            "icon": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "synchronize_details": {
+        "message": "자세한 정보 동기화"
+    },
+    "linkedin": {
+        "message": "LinkedIn"
+    },
+    "linkedin_url": {
+        "message": "LinkedIn URL"
+    },
+    "operation_type": {
+        "message": "작업 유형"
+    },
+    "sync_time": {
+        "message": "동기화 시간"
+    },
+    "update": {
+        "message": "업데이트"
+    },
+    "subscription_successful": {
+        "message": "등록 성공!"
+    },
+    "you_have": {
+        "message": "가진 것"
+    },
+    "subscriptionInfo": {
+        "message": "월별 크레딧. 매월 $CURRENT$일에 자동 갱신됩니다.",
+        "placeholders": {
+            "current": {
+                "content": "$1",
+                "example": "월별 포인트"
+            }
+        }
+    },
+    "payment_successful": {
+        "message": "업그레이드"
+    },
+    "upgrading_one": {
+        "message": "1. 업그레이드 후 전망 동기화 포인트가 확장됩니다."
+    },
+    "upgrading_two": {
+        "message": "2. 업그레이드 직후에 즉시 적용됩니다."
+    },
+    "credits_spent": {
+        "message": "사용된 포인트"
+    },
+    "event": {
+        "message": "이벤트"
+    },
+    "prospects_linked_in": {
+        "message": "링크드인의 전망"
+    },
+    "credit_deduction": {
+        "message": "크레딧 공제"
+    },
+    "operation_time": {
+        "message": "작업 시간"
+    },
+    "sync_to_notion": {
+        "message": "Notion에 동기화"
+    },
+    "find_emails": {
+        "message": "이메일 찾기"
+    },
+    "sync_to_salesforce": {
+        "message": "Salesforce에 동기화"
+    },
+    "sync_to_sheets": {
+        "message": "Google Sheets에 동기화"
+    },
+    "downloadexcel": {
+        "message": "엑셀 다운로드"
+    },
+    "sync_to_hubspot": {
+        "message": "Hubspot에 동기화"
+    },
+    "settings": {
+        "message": "설정"
+    },
+    "display_user_profile": {
+        "message": "링크드인 사용자 프로필을 검색할 때 표시"
+    },
+    "auto_summarize": {
+        "message": "자동 요약"
+    },
+    "auto_search_email": {
+        "message": "이메일 자동 검색"
+    },
+    "dispaly_floating_ball": {
+        "message": "LinkedCRM 플로팅 볼 표시"
+       },
+    "display_all_websites": {
+        "message": "모든 웹사이트에서 표시"
+    },
+    "display_just_linkedin_site": {
+        "message": "링크드인 사이트에서만 표시"
+    },
+    "login_message": {
+        "message": "LinkedCRM을 시작하려면 링크드인 계정으로 로그인해야 합니다."
+    },
+    "login_linkedIn": {
+        "message": "링크드인 로그인"
+    },
+    "read_and_accept": {
+        "message": "읽었으며 수락함"
+    },
+    "privacy_policy": {
+        "message": "개인정보 정책 및 서비스 약관"
+    },
+    "accepting_the_privacy": {
+        "message": "개인정보 계약을 수락한 후에 계속 진행해주세요."
+    },
+    "store_your_personal": {
+        "message": "명시적인 동의 없이 개인 정보를 수집하거나 저장하지 않습니다."
+    },
+    "after_logging": {
+        "message": "링크드인에 로그인한 후,"
+    },
+    "page_and_refresh": {
+        "message": "이 페이지로 돌아와서 새로 고침해주세요."
+    },
+    "refresh": {
+        "message": "새로 고침"
+    },
+    "associate_account": {
+        "message": "CRM 계정을 연결하여 링크드인 데이터를 동기화해주세요."
+    },
+    "export_to_excel": {
+        "message": "CRM 계정이 없으면 엑셀로도 내보내기가 가능합니다."
+    },
+    "set_it_up_later": {
+        "message": "나중에 설정"
+    },
+    "feedback": {
+        "message": "피드백"
+    },
+    "roadmap": {
+        "message": "로드맵"
+    },
+    "changelog": {
+        "message": "변경 로그"
+    },
+    "your_privacy": {
+        "message": "당신의 프라이버시를 중요시합니다"
+    },
+    "personalized_experience": {
+        "message": "링크드인 쿠키를 사용하여 사용자 정보 요약, 이메일 찾기 등 링크드인 생태계 내에서 사용을 개선하고 개인화된 경험을 제공합니다."
+    },
+    "more_information": {
+        "message": "「수락」을 클릭하시면 LinkedCRM을 계속 사용하실 수 있습니다. 더 많은 정보는 우리의 개인정보 정책을 방문해주세요."
+    },
+    "learn_more": {
+        "message": "더 알아보기"
+    },
+    "decline": {
+        "message": "거부"
+    },
+    "accept": {
+        "message": "수락"
+    },
+    "chat": {
+        "message": "채팅"
+    },
+    "tools": {
+        "message": "도구"
+    },
+    "copy": {
+        "message": "복사"
+    },
+    "copied": {
+        "message": "복사됨"
+    },
+    "loading": {
+        "message": "로딩 중..."
+    },
+    "load_failed": {
+        "message": "로딩에 실패했습니다. 다시 시도해주세요."
+    },
+    "regenerate": {
+        "message": "재생성"
+    },
+    "limit_standard": {
+        "message": "무제한 GPT4o 표준 질의"
+    },
+    "email_queries": {
+        "message": "500 이메일 질의"
+    },
+    "unlimited_credits": {
+        "message": "무제한 전망 동기화 크레트"
+    },
+    "unlimited_excel": {
+        "message": "무제한 엑셀 다운로드"
+    },
+    "unlock_potential": {
+        "message": "무제한 가능성을 잠금해제하세요!"
+    },
+    "message_linkedcrm_ai": {
+        "message": "LinkedCRM AI에 메시지..."
+    },
+    "ask_followup": {
+        "message": "추가 질문..."
+    },
+    "synchronizing": {
+        "message": "동기화 중..."
+    },
+    "generating": {
+        "message": "생성 중..."
+    },
+    "binding_success": {
+        "message": "바인딩 성공! 🎉 이제 $PLATFORM$로 전망 목록을 동기화하고 있습니다.",
+        "placeholders": {
+            "platform": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "select_synchronize": {
+        "message": "동기화하려는 CRM을 선택해주세요"
+    },
+    "download_excel": {
+        "message": "유저 정보를 엑셀로 다운로드합니다."
+    },
+    "not_yet_bind_account": {
+        "message": "😱 아직 $PLATFORM$ 계정을 바인딩하지 않으셨습니다.",
+        "placeholders": {
+            "platform": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "congratulations": {
+        "message": "축하합니다! 🎉 $PLATFORM$에 동기화가 완료되었습니다. 아래 링크를 클릭하시면 $PLATFORM$에서 리스트를 볼 수 있습니다.",
+        "placeholders": {
+            "platform": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "view_details": {
+        "message": "[🔗 $PLATFORM$에서 상세 보기]($LINK$)",
+        "placeholders": {
+            "platform": {
+                "content": "$1",
+                "example": ""
+            },
+            "link": {
+                "content": "$2",
+                "example": ""
+            }
+        }
+    },
+    "something_wrong": {
+        "message": "문제가 발생했습니다. 나중에 다시 시도해주세요."
+    },
+    "ask_another_question": {
+        "message": "죄송합니다. 이해를 못했어요. 다른 질문을 할 수 있을까요?"
+    },
+    "click_download": {
+        "message": "축하합니다! 🎉 파일이 생성되었습니다. 아래 카드를 클릭하시면 다운로드할 수 있습니다👇"
+    },
+    "write_an_email": {
+        "message": "이메일 쓰기"
+    },
+    "search_for_email": {
+        "message": "이메일 찾기"
+    },
+    "information_into_crm": {
+        "message": "$NAME$의 정보를 CRM에 동기화합니다.",
+        "placeholders": {
+            "name": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "like_to_know": {
+        "message": "안녕하세요! 무엇을 알고 싶으신가요?"
+    },
+    "summarize_information": {
+        "message": "$NAME$의 정보를 요약합니다.",
+        "placeholders": {
+            "name": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "name_email": {
+        "message": "$NAME$의 이메일은 무엇인가요?",
+        "placeholders": {
+            "name": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "sync_information": {
+        "message": "$NAME$의 정보를 CRM에 동기화합니다.",
+        "placeholders": {
+            "name": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "history": {
+        "message": "기록"
+    },
+    "home": {
+        "message": "홈"
+    },
+    "switch_to": {
+        "message": "전환"
+    },
+    "switching_operate": {
+        "message": "전환하면 다음 정보로 작동합니다"
+    },
+    "choose_to_continue": {
+        "message": ". 계속을 선택하면 현재 대화 및 정보 동기화 상태를 유지합니다."
+    },
+    "searching_from": {
+        "message": "검색"
+    },
+    "search_sources": {
+        "message": "4개의 검색 소스 기반"
+    },
+        "send_email": {
+        "message": "이메일 보내기"
+    },
+    "valid": {
+        "message": "유효"
+    },
+    "unverified": {
+        "message": "미확인"
+    },
+    "source": {
+        "message": "소스"
+    },
+    "finder_verifier": {
+        "message": "이메일 찾기 + 확인"
+    },
+    "sync_to_crm": {
+        "message": "CRM에 연락처 동기화"
+    },
+    "gpt4o_queries": {
+        "message": "무제한 GPT4o 질의"
+    },
+    "priority_support": {
+        "message": "우선 지원"
+    },
+    "summarize_user": {
+        "message": "사용자 정보 요약"
+    },
+    "autofindemail_default_time": {
+        "message": "LinkedCRM이 자동으로 $AUTOFINDEMAIL$개 이메일을 찾아드렸습니다!",
+        "placeholders": {
+            "autofindemail": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "continue_email": {
+        "message": "자동 이메일 검색을 계속하시겠습니까?"
+    },
+    "automatic": {
+        "message": "자동"
+    },
+    "manual": {
+        "message": "수동"
+    },
+    "tips_auto": {
+        "message": "팁: 자동 이메일 검색은 포인트도 소모합니다."
+    },
+    "who_email": {
+        "message": "의 이메일"
+    },
+    "search_from": {
+        "message": "에서 이메일 검색"
+    },
+    "not_find_email": {
+        "message": "죄송합니다. 이메일을 찾지 못했습니다."
+    },
+    "continue_in_chat": {
+        "message": "채팅으로 계속"
+    },
+    "summarize": {
+        "message": "요약"
+    },
+    "sync_to": {
+        "message": "동기화"
+    },
+    "upgrade_now": {
+        "message": "지금 업그레이드"
+    },
+    "find_email_for_you": {
+        "message": "LinkedCRM이 $NAME$의 이메일을 찾아드렸습니다!",
+        "placeholders": {
+            "name": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "check_out": {
+        "message": "확인"
+    },
+    "contact_us": {
+        "message": "문의"
+    },
+    "continue": {
+        "message": "계속"
+    },
+    "session_history": {
+        "message": "세션 기록"
+    },
+    "find_email": {
+        "message": "이메일 찾기"
+    },
+    "supported_only": {
+        "message": "링크드인에서만 지원"
+    },
+    "download_exc": {
+        "message": "CRM에 동기화/엑셀 다운로드"
+    },
+    "send": {
+        "message": "보내기"
+    },
+    "monthly": {
+        "message": "월별"
+    },
+    "yearly": {
+        "message": "연례"
+    },
+    "first_month": {
+        "message": "첫째 달 - $PRICE$ 할인",
+        "placeholders": {
+            "price": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "start_first_month": {
+        "message": "첫째 달 $PRICE$부터 시작!",
+        "placeholders": {
+            "price": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "per_month": {
+        "message": "매월 $PRICE$",
+        "placeholders": {
+            "price": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "an_extra": {
+        "message": "할인 가격에 추가 $PRICE$ 할인",
+        "placeholders": {
+            "price": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "billed_yearly": {
+        "message": "월별 요금, 연간 청구"
+    },
+    "best_value": {
+        "message": "최상의 가치"
+    },
+    "unlock_unlimited": {
+        "message": "무제한 가능성을 잠금해제"
+    },
+    "after_upgrading": {
+        "message": "업그레이드 후 크레디트가 확장됩니다."
+    },
+    "effective_immediately": {
+        "message": "업그레이드 직후 즉시 적용됩니다."
+    },
+    "the_downgrade": {
+        "message": "다운그레이드는 다음 달에 적용됩니다."
+    },
+    "the_downgrade_year": {
+        "message": "다운그레이드는 다음 해에 적용됩니다."
+    },
+    "monthly_payment": {
+        "message": "매월 지불은 내년에 효력이 발생한다."
+    },
+    "after_downgrading": {
+        "message": "다운그레이드 후, 크레디트 잔액이 줄어듭니다."
+    },
+    "downgrade": {
+        "message": "다운그레이드"
+    },
+    "current_plan": {
+        "message": "현재 플랜"
+    },
+    "save": {
+        "message": "할인"
+    },
+    "pay_the_difference": {
+        "message": "차액을 지불하면 업그레이드 직후 즉시 적용됩니다."
+    },
+    "annual_payment": {
+        "message": "연간 결제는 다음 달에 적용됩니다."
+    },
+    "start_at": {
+        "message": "시작 가격 $PRICE$",
+        "placeholders": {
+            "price": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "change_plan": {
+        "message": "계획 변경"
+    },
+    "subscrip_month": {
+        "message": "매월 $CURRENT$일 자동 갱신",
+        "placeholders": {
+            "current": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "subscrip_year": {
+        "message": "매년 $CURRENT$일 자동 갱신",
+        "placeholders": {
+            "current": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "subscrip_version": {
+        "message": "버전 $VERSION$으로 성공적으로 업그레이드되었습니다. 포인트 반영에는 1-5분 정도 지연될 수 있으니 페이지를 새로고침 해주세요.",
+        "placeholders": {
+            "version": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    }
+}

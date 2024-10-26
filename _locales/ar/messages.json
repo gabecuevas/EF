@@ -1,0 +1,699 @@
+{
+    "ext_name": {
+        "message": "LinkedCRM AI: مكتشف البريد الإلكتروني على LinkedIn ومساعده"
+    },
+    "integrations": {
+        "message": "التكاملات"
+    },
+    "model_title": {
+        "message": "تهانينا! 🎉"
+    },
+    "model_benefits": {
+        "message": "لديك هذه المزايا! قم بالترقية للحصول على حصة غير محدودة 👉"
+    },
+    "model_upgrade": {
+        "message": "ترقية"
+    },
+    "model_icon_message_gpt": {
+        "message": "استفسارات GPT4o"
+    },
+    "model_icon_message_email": {
+        "message": "بحث عن البريد الإلكتروني"
+    },
+    "model_icon_message_sync": {
+        "message": "المزامنة مع CRM"
+    },
+    "model_icon_message_download": {
+        "message": "تنزيل Excel"
+    },
+    "model_start_go": {
+        "message": "اذهب إلى LinkedIn وابدأ"
+    },
+    "connected": {
+        "message": "متصل"
+    },
+    "salesforce": {
+        "message": "Salesforce"
+    },
+    "google_sheets": {
+        "message": "جداول بيانات Google"
+    },
+    "notion": {
+        "message": "Notion"
+    },
+    "platform_desc": {
+        "message": "مزامنة البيانات بشكل ثنائي لتسهيل عملية البحث عن العملاء المحتملين."
+    },
+    "connect": {
+        "message": "اتصال"
+    },
+    "sync": {
+        "message": "مزامنة"
+    },
+    "connected_account": {
+        "message": "حساب متصل:"
+    },
+    "platform_sheet": {
+        "message": "مزامنة تلقائية للعملاء المحتملين الذين تجدهم على LinkedIn إلى جدول البيانات الخاص بك."
+    },
+    "platform_notion": {
+        "message": "مزامنة تلقائية للعملاء المحتملين الذين تجدهم على LinkedIn إلى قاعدة بيانات Notion الخاصة بك."
+    },
+    "platform_salesforce": {
+        "message": "مزامنة تلقائية للعملاء المحتملين الذين تجدهم على LinkedIn إلى Salesforce."
+    },
+    "hubspot_title": {
+        "message": "Hubspot"
+    },
+    "platform_hubspot": {
+        "message": "مزامنة تلقائية للعملاء المحتملين الذين تجدهم على LinkedIn إلى HubSpot."
+    },
+    "zapier_title": {
+        "message": "Zapier"
+    },
+    "platform_zapier": {
+        "message": "اتصل بـ LinkedCRM مع أكثر من 2000 تطبيق آخر باستخدام Zapier."
+    },
+    "pipedrive_title": {
+        "message": "Pipedrive"
+    },
+    "platform_pipedrive": {
+        "message": "مزامنة تلقائية للعملاء المحتملين الذين تجدهم على LinkedIn إلى Pipedrive."
+    },
+    "zoho_title": {
+        "message": "ZOHO"
+    },
+    "platform_zoho": {
+        "message": "مزامنة تلقائية للعملاء المحتملين الذين تجدهم على LinkedIn إلى ZOHO CRM."
+    },
+    "copper_title": {
+        "message": "Copper"
+    },
+    "platform_copper": {
+        "message": "مزامنة تلقائية للعملاء المحتملين الذين تجدهم على LinkedIn إلى Copper."
+    },
+    "freshworks_title": {
+        "message": "Freshworks"
+    },
+    "platform_freshworks": {
+        "message": "مزامنة تلقائية للعملاء المحتملين الذين تجدهم على LinkedIn إلى Freshworks."
+    },
+    "rdstation_title": {
+        "message": "RD Station"
+    },
+    "platform_rdstation": {
+        "message": "مزامنة تلقائية للعملاء المحتملين الذين تجدهم على LinkedIn إلى RD Station."
+    },
+    "agendor_title": {
+        "message": "Agendor"
+    },
+    "platform_agendor": {
+        "message": "مزامنة تلقائية للعملاء المحتملين الذين تجدهم على LinkedIn إلى Agendor."
+    },
+    "at_launch": {
+        "message": "⏰ سيتم إخطارك عند الإطلاق!"
+    },
+    "join_waitlist": {
+        "message": "إنضم إلى قائمة الانتظار"
+    },
+    "billing": {
+        "message": "الفوترة"
+    },
+    "get_start": {
+        "message": "ابدأ"
+    },
+    "will_be_renewed_on": {
+        "message": "سيتم تجديده في -"
+    },
+    "credits_for_prospect_sync": {
+        "message": "$QUOTA$ رصيد",
+        "placeholders": {
+            "quota": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "quota_limit": {
+        "message": "تم الوصول إلى حد الحصة! ترقية للحصول على إوصلت حد الرصيد $ICON$",
+        "placeholders": {
+            "icon": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "synchronize_details": {
+        "message": "مزامنة التفاصيل"
+    },
+    "linkedin": {
+        "message": "LinkedIn"
+    },
+    "linkedin_url": {
+        "message": "رابط LinkedIn"
+    },
+    "operation_type": {
+        "message": "نوع العملية"
+    },
+    "sync_time": {
+        "message": "وقت المزامنة"
+    },
+    "update": {
+        "message": "تحديث"
+    },
+    "subscription_successful": {
+        "message": "تم الاشتراك بنجاح!"
+    },
+    "you_have": {
+        "message": "لديك"
+    },
+    "subscriptionInfo": {
+        "message": "رصيد شهري. سيتم تجديده تلقائيًا في اليوم $CURRENT$ من كل شهر.",
+        "placeholders": {
+            "current": {
+                "content": "$1",
+                "example": "رصيد شهري لمزامنة العملاء المحتملين."
+            }
+        }
+    },
+    "payment_successful": {
+        "message": "ترقية"
+    },
+    "upgrading_one": {
+        "message": "1. بعد الترقية، ستزداد أرصدة مزامنة العملاء المحتملين."
+    },
+    "upgrading_two": {
+        "message": "2. سارية المفعول فورًا بعد الترقية."
+    },
+    "credits_spent": {
+        "message": "الرصيد المستخدم"
+    },
+    "event": {
+        "message": "حدث"
+    },
+    "prospects_linked_in": {
+        "message": "العملاء المحتملين على LinkedIn"
+    },
+    "credit_deduction": {
+        "message": "خصم الرصيد"
+    },
+    "operation_time": {
+        "message": "وقت العملية"
+    },
+    "sync_to_notion": {
+        "message": "مزامنة إلى Notion"
+    },
+    "find_emails": {
+        "message": "بحث عن البريد الإلكتروني"
+    },
+    "sync_to_salesforce": {
+        "message": "مزامنة إلى Salesforce"
+    },
+    "sync_to_sheets": {
+        "message": "مزامنة إلى جداول بيانات Google"
+    },
+    "downloadexcel": {
+        "message": "تنزيل Excel"
+    },
+    "sync_to_hubspot": {
+        "message": "مزامنة إلى Hubspot"
+    },
+    "settings": {
+        "message": "الإعدادات"
+    },
+    "display_user_profile": {
+        "message": "عرض عند تصفح ملفات تعريف مستخدمي LinkedIn"
+    },
+    "auto_summarize": {
+        "message": "تلخيص تلقائي"
+    },
+    "auto_search_email": {
+        "message": "بحث التلقائي عن البريد الإلكتروني"
+    },
+    "dispaly_floating_ball": {
+        "message": "عرض كرة LinkedCRM الطائرة"
+    },
+    "display_all_websites": {
+        "message": "عرض في جميع المواقع"
+    },
+    "display_just_linkedin_site": {
+        "message": "عرض فقط في موقع LinkedIn"
+    },
+    "login_message": {
+        "message": "يجب عليك تسجيل الدخول إلى حسابك على LinkedIn لبدء استخدام LinkedCRM."
+    },
+    "login_linkedIn": {
+        "message": "تسجيل الدخول إلى LinkedIn"
+    },
+    "read_and_accept": {
+        "message": "لقد قرأت وقبلت"
+    },
+    "privacy_policy": {
+        "message": "سياسة الخصوصية وشروط الخدمة"
+    },
+    "accepting_the_privacy": {
+        "message": "يرجى المتابعة بعد قبول اتفاقية الخصوصية."
+    },
+    "store_your_personal": {
+        "message": "لن نقوم أبدًا بجمع أو تخزين بياناتك الشخصية دون موافقتك الصريحة."
+    },
+    "after_logging": {
+        "message": "بعد تسجيل الدخول إلى LinkedIn،"
+    },
+    "page_and_refresh": {
+        "message": "ارجع إلى هذه الصفحة وقم بتحديثها."
+    },
+    "refresh": {
+        "message": "تحديث"
+    },
+    "associate_account": {
+        "message": "يرجى ربط حسابك مع CRM للمزامنة معLinkedIn."
+    },
+    "export_to_excel": {
+        "message": "إذا لم يكن لديك حساب CRM، يمكنك أيضًا تصدير إلى Excel."
+    },
+    "set_it_up_later": {
+        "message": "إعداده لاحقًا"
+    },
+    "feedback": {
+        "message": "ملاحظات"
+    },
+    "roadmap": {
+        "message": "خريطة الطريق"
+    },
+    "changelog": {
+        "message": "سجل التغييرات"
+    },
+    "your_privacy": {
+        "message": "نحن نقدر خصوصيتك"
+    },
+    "personalized_experience": {
+        "message": "نستخدم ملفات تعريف الارتباط من LinkedIn لتحسين استخدامك في نظام LinkedIn، مثل تلخيص معلومات المستخدم وإيجاد البريد الإلكتروني، وتقديم لك تجربة مخصصة."
+    },
+    "more_information": {
+        "message": "بنقر 'قبول'، يمكنك مواصلة استخدام LinkedCRM. لمزيد من المعلومات، يرجى زيارة سياسة الخصوصية الخاصة بنا."
+    },
+    "learn_more": {
+        "message": "تعلم المزيد"
+    },
+    "decline": {
+        "message": "رفض"
+    },
+    "accept": {
+        "message": "قبول"
+    },
+    "chat": {
+        "message": "دردشة"
+    },
+    "tools": {
+        "message": "أدوات"
+    },
+    "copy": {
+        "message": "نسخ"
+    },
+    "copied": {
+        "message": "تم النسخ"
+    },
+    "loading": {
+        "message": "جار التحميل..."
+    },
+    "load_failed": {
+        "message": "فشل التحميل، يرجى المحاولة مرة أخرى"
+    },
+    "regenerate": {
+        "message": "إعادة توليد"
+    },
+    "limit_standard": {
+        "message": "استعلامات GPT4o قياسية غير محدودة"
+    },
+    "email_queries": {
+        "message": "500 استعلام عبر البريد الإلكتروني"
+    },
+    "unlimited_credits": {
+        "message": "اعتمادات غير محدودة لمزامنة العملاء المحتملين"
+    },
+    "unlimited_excel": {
+        "message": "تحميل Excel غير محدود"
+    },
+    "unlock_potential": {
+        "message": "افتح إمكانيات غير محدودة!"
+    },
+    "message_linkedcrm_ai": {
+        "message": "رسالة LinkedCRM AI..."
+    },
+    "ask_followup": {
+        "message": "اسأل المتابعة..."
+    },
+    "synchronizing": {
+        "message": "جار المزامنة..."
+    },
+    "generating": {
+        "message": "جار التوليد..."
+    },
+    "binding_success": {
+        "message": "تم الربط بنجاح! 🎉الآن جارٍ المزامنة القائمة بالعملاء المحتملين إلى $PLATFORM$.",
+        "placeholders": {
+            "platform": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "select_synchronize": {
+        "message": "يرجى اختيار CRM الذي ترغب في مزامنته"
+    },
+    "download_excel": {
+        "message": "تحميل معلومات المستخدم إلى Excel."
+    },
+    "not_yet_bind_account": {
+        "message": "😱 عذرًا، لم تقم بعد بربط حسابك في $PLATFORM$.",
+        "placeholders": {
+            "platform": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "congratulations": {
+        "message": "تهانينا! 🎉 تمت المزامنة إلى $PLATFORM$ بنجاح. يرجى النقر على الرابط أدناه لعرض القائمة في $PLATFORM$",
+        "placeholders": {
+            "platform": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "view_details": {
+        "message": "[🔗 عرض التفاصيل في $PLATFORM$]($LINK$)",
+        "placeholders": {
+            "platform": {
+                "content": "$1",
+                "example": ""
+            },
+            "link": {
+                "content": "$2",
+                "example": ""
+            }
+        }
+    },
+    "something_wrong": {
+        "message": "حدث خطأ ما، يرجى المحاولة مرة أخرى لاحقًا."
+    },
+    "ask_another_question": {
+        "message": "عذرًا، لا أفهم. هل يمكنك طرح سؤال آخر؟"
+    },
+    "click_download": {
+        "message": "تهانينا! 🎉 \nتم إنشاء الملف. يرجى النقر على البطاقة أدناه للتنزيل👇"
+    },
+    "write_an_email": {
+        "message": "اكتب بريدًا إلكترونيًا"
+    },
+    "search_for_email": {
+        "message": "ابحث عن بريد إلكتروني"
+    },
+    "information_into_crm": {
+        "message": "مزامنة معلومات $NAME$ إلى CRM.",
+        "placeholders": {
+            "name": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "like_to_know": {
+        "message": "مرحبًا! ماذا تريد أن تعرف؟"
+    },
+    "summarize_information": {
+        "message": "تلخيص معلومات $NAME$.",
+        "placeholders": {
+            "name": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "name_email": {
+        "message": "ما هو بريد $NAME$ الإلكتروني؟",
+        "placeholders": {
+            "name": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "sync_information": {
+        "message": "مزامنة معلومات $NAME$ إلى CRM.",
+        "placeholders": {
+            "name": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "history": {
+        "message": "تاريخ"
+    },
+    "home": {
+        "message": "الصفحة الرئيسية"
+    },
+    "switch_to": {
+        "message": "التبديل إلى"
+    },
+    "switching_operate": {
+        "message": "من خلال التبديل، سوف تعمل مع معلومات"
+    },
+    "choose_to_continue": {
+        "message": ". إذا اخترت الاستمرار، فسوف نحافظ على حالة الحوار الحالية ومزامنة المعلومات."
+    },
+    "searching_from": {
+        "message": "البحث من"
+    },
+    "search_sources": {
+        "message": "بناءً على 4 مصادر بحث"
+    },
+    "send_email": {
+        "message": "إرسال بريد إلكتروني"
+    },
+    "valid": {
+        "message": "صالح"
+    },
+    "unverified": {
+        "message": "غير التحقق"
+    },
+    "source": {
+        "message": "المصدر"
+    },
+    "finder_verifier": {
+        "message": "الباحث عن البريد الإلكتروني + المصدق"
+    },
+    "sync_to_crm": {
+        "message": "مزامنة جهة الاتصال إلى نظام إدارة علاقات العملاء"
+    },
+    "gpt4o_queries": {
+        "message": "استعلامات GPT4o غير محدودة"
+    },
+    "priority_support": {
+        "message": "دعم عميل ممتاز"
+    },
+    "summarize_user": {
+        "message": "تلخيص معلومات المستخدم"
+    },
+    "autofindemail_default_time": {
+        "message": "LinkedCRM يجد تلقائيًا $AUTOFINDEMAIL$ بريدًا إلكترونيًا لك!",
+        "placeholders": {
+            "autofindemail": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "continue_email": {
+        "message": "هل ترغب في متابعة البحث عن البريد الإلكتروني تلقائيًا؟"
+    },
+    "automatic": {
+        "message": "تلقائي"
+    },
+    "manual": {
+        "message": "يدوي"
+    },
+    "tips_auto": {
+        "message": "النصيحة: سيستهلك البحث التلقائي عن البريد الإلكتروني أيضًا الاعتمادات."
+    },
+    "who_email": {
+        "message": "البريد الإلكتروني"
+    },
+    "search_from": {
+        "message": "البحث عن البريد الإلكتروني من"
+    },
+    "not_find_email": {
+        "message": "عذرًا، لم يتم العثور على بريد إلكتروني من"
+    },
+    "continue_in_chat": {
+        "message": "متابعًا في الدردشة"
+    },
+    "summarize": {
+        "message": "تلخيص"
+    },
+    "sync_to": {
+        "message": "مزامنة إلى"
+    },
+    "upgrade_now": {
+        "message": "ترقية الآن"
+    },
+    "find_email_for_you": {
+        "message": "LinkedCRM يجد بريد $NAME$ الإلكتروني لك!",
+        "placeholders": {
+            "name": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "check_out": {
+        "message": "تحقق من"
+    },
+    "contact_us": {
+        "message": "اتصل بنا"
+    },
+    "continue": {
+        "message": "متابعة"
+    },
+    "session_history": {
+        "message": "تاريخ الجلسة"
+    },
+    "find_email": {
+        "message": "بحث عن البريد الإلكتروني"
+    },
+    "supported_only": {
+        "message": "مدعوم فقط على LinkedIn"
+    },
+    "download_exc": {
+        "message": "مزامنة مع CRM/تنزيل Excel"
+    },
+    "send": {
+        "message": "إرسال"
+    },
+    "monthly": {
+        "message": "شهريًا"
+    },
+    "yearly": {
+        "message": "سنويًا"
+    },
+    "first_month": {
+        "message": "الشهر الأول - خصم $PRICE$",
+        "placeholders": {
+            "price": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "start_first_month": {
+        "message": "ابدأ من $PRICE$ في الشهر الأول!",
+        "placeholders": {
+            "price": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "per_month": {
+        "message": "لكل شهر $PRICE$",
+        "placeholders": {
+            "price": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "an_extra": {
+        "message": "خصم إضافي $PRICE$ فوق الخصم",
+        "placeholders": {
+            "price": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "billed_yearly": {
+        "message": "شهريًا، مدفوع سنويًا"
+    },
+    "best_value": {
+        "message": "القيمة الأفضل"
+    },
+    "unlock_unlimited": {
+        "message": "فتح إمكانيات غير محدودة"
+    },
+    "after_upgrading": {
+        "message": "بعد الترقية، سيتم توسيع الاعتمادات."
+    },
+    "effective_immediately": {
+        "message": "سيتم تطبيق التغييرات على الفور بعد الترقية."
+    },
+    "the_downgrade": {
+        "message": "سيدخل التخفيض إلى التنفيذ في الشهر التالي."
+    },
+    "the_downgrade_year": {
+        "message": "التخفيض نافذا في السنة التالية ."
+    },
+    "monthly_payment": {
+        "message": "الدفع الشهري سوف تدخل حيز التنفيذ في العام المقبل ."
+    },
+    "after_downgrading": {
+        "message": "بعد التخفيض، سيصبح رصيد الاعتمادات أقل."
+    },
+    "downgrade": {
+        "message": "خفض المستوى"
+    },
+    "current_plan": {
+        "message": "الخطة الحالية"
+    },
+    "save": {
+        "message": "حفظ"
+    },
+    "pay_the_difference": {
+        "message": "ادفع الفرق، وسيتم تطبيق التغييرات على الفور بعد الترقية."
+    },
+    "annual_payment": {
+        "message": "ستكون الدفعة السنوية ناتجة في الشهر التالي."
+    },
+    "start_at": {
+        "message": "البدء من $PRICE$",
+        "placeholders": {
+            "price": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "change_plan": {
+        "message": "خطة التغيير"
+    },
+    "subscrip_month": {
+        "message": "التجديد التلقائي في $CURRENT$ من كل شهر",
+        "placeholders": {
+            "current": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "subscrip_year": {
+        "message": "التجديد التلقائي في $CURRENT$ كل عام",
+        "placeholders": {
+            "current": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    },
+    "subscrip_version": {
+        "message": "لقد قمت بالترقية بنجاح إلى $VERSION$، قد يستغرق ظهور النقاط من 1 إلى 5 دقائق. يرجى تحديث الصفحة.",
+        "placeholders": {
+            "version": {
+                "content": "$1",
+                "example": ""
+            }
+        }
+    }
+}
